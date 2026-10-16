@@ -1,0 +1,18 @@
+# Buildozer / Android build artifacts
+.buildozer/
+bin/
+*.apk
+*.aab
+*.so
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
